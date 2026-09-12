@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+.cache/
+venv/
+.venv/
+
+*.nii
+*.nii.gz
+*.dcm
+*.mhd
+*.raw
