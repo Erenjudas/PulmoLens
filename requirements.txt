@@ -10,3 +10,4 @@ pillow
 torch
 torchvision
 pydantic
+reportlab
