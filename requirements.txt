@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+opencv-python-headless
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+google-genai
+pillow
+torch
+torchvision
+pydantic
+reportlab
